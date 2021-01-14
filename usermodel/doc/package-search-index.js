@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"il.ac.haifa.is.spice"},{"l":"il.ac.haifa.is.spice.controller"},{"l":"il.ac.haifa.is.spice.exception"},{"l":"il.ac.haifa.is.spice.model"},{"l":"il.ac.haifa.is.spice.repository"},{"l":"il.ac.haifa.is.spice.security"},{"l":"net.javaguides.springboot"}]
